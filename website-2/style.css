@@ -1,0 +1,12 @@
+img {
+  width: 400px;
+  object-fit: cover;
+  max-height: 225px;
+}
+
+body {
+  background-color: lightslategrey;
+}
+body {
+  font-family: Tahoma, sans-serif;
+}
