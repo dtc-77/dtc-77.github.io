@@ -1,0 +1,10 @@
+img {
+  width: 400px;
+  object-fit: cover;
+}
+
+body {
+  background-image: url("greybackground.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
